@@ -1,0 +1,8 @@
+{
+  "name": "nodebb-plugin-demo-logwhenlogin",
+  "nbbpm": {
+    "compatibility": "^1.10.0"
+  },
+  "version": "1.0.0",
+  "private": false
+}

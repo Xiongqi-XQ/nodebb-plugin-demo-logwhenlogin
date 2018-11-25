@@ -1,0 +1,7 @@
+{
+  "id": "nodebb-plugin-demo-logwhenlogin",
+  "name": "demo-logwhenlogin",
+  "description": "NodeBB demo-alertwhenlogin",
+  "library": "./library.js",
+  "hooks": [{ "hook": "action:user.loggedIn", "method": "log" }]
+}
